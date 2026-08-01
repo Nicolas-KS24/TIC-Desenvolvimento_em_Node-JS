@@ -221,5 +221,3 @@ A documentação Swagger poderá ser acessada em:
 ```
 http://localhost:8000/api-docs
 ```
-
-*(Disponível após a configuração do Swagger.)*
